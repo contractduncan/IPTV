@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,翡翠台4k
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/BRncamwlvxMtX/+dphhvg", "kid":"LARfWtsm05HMQc0B8AQW+g" } ], "type":"temporary" }
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=eac647c935632ba97ce47163148b816d&ext_start_limit=1709902135&int_start_limit=1709902135&ts=1709902135&c=850464580
